@@ -1,1 +1,0 @@
-## Vanilla JS starter pack
